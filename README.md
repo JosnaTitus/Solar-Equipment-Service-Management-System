@@ -7,6 +7,6 @@ To understand the project I hade added the synopsis which will give a clear idea
 I have used:- 
 
      Visual Studio in the front-end
-     Ms-Access as the back-end.
+     Ms-Access in the back-end.
 
 The project can run from the "main" page to get a clear idea about the various modules. 
