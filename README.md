@@ -5,7 +5,8 @@ It consist of various modules like Account module, back-office & front-office mo
 To understand the project I hade added the synopsis which will give a clear idea like how the system works.
 
 I have used:- 
+
      Visual Studio in the front-end
      Ms-Access as the back-end.
 
-The project can run from the main page to get a clear idea about the various modules. 
+The project can run from the "main" page to get a clear idea about the various modules. 
